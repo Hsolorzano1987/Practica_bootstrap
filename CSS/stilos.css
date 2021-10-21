@@ -1,0 +1,70 @@
+
+.altura-a-b{
+    padding: 100px 0;
+}
+
+.logotipo{
+    width: 100px;
+}
+
+.fab{
+    width: 30px;
+    margin: 10px 5px;
+}
+
+.container{
+    margin: 10px 5px;
+    justify-content: space-around;
+}
+.Banner-video{
+    background-image: url(../assets/images/spacepum.jpeg);
+    padding: 100px 0;
+    position: relative;
+    text-align: center;
+    margin: 30px 30px;
+    
+}
+i{
+    color: blue;
+    font-size: 80px;
+}
+i{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+h2{
+    text-align: center;
+    color: blue;
+    font-size: 250%;
+}
+p{
+    color: brown;
+    justify-content: center;
+    text-align: center;
+}
+.container-fotos{
+    justify-content: center;
+}
+.container-info{
+    justify-content: center;
+    padding-inline-end: 0%;
+}
+
+
+.container-botones{
+    text-align: center;
+    
+
+}
+
+
+    
+
+
+
+
+
+    
+
+
